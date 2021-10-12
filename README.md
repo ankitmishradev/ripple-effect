@@ -2,8 +2,8 @@
 Made with ❤️ by <b>Ankit Mishra</b>.
 </div>
 
-<div style="display:flex;justify-content:center;align-items:center;">
-<a href="https://github.com/ankitmishradev" target="blank">
+<div align="center">
+<a href="https://github.com/ankitmishradev" target="blank" style="">
     <img src="https://raw.githubusercontent.com/ankitmishradev/attribution-template/main/icons/github.png" height="32px" width="32px" alt="github"/>
 </a>
 <a href="https://www.linkedin.com/in/ankitmishradev/" target="blank">
