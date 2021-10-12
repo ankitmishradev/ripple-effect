@@ -1,9 +1,12 @@
-<div style="text-align:center;margin-bottom:10px">
+<footer>
+<div align="center">
 Made with ❤️ by <b>Ankit Mishra</b>.
 </div>
 
+---
+
 <div align="center">
-<a href="https://github.com/ankitmishradev" target="blank" style="">
+<a href="https://github.com/ankitmishradev" target="blank">
     <img src="https://raw.githubusercontent.com/ankitmishradev/attribution-template/main/icons/github.png" height="32px" width="32px" alt="github"/>
 </a>
 <a href="https://www.linkedin.com/in/ankitmishradev/" target="blank">
@@ -22,3 +25,4 @@ Made with ❤️ by <b>Ankit Mishra</b>.
     <img src="https://raw.githubusercontent.com/ankitmishradev/attribution-template/main/icons/instagram.png" height="32px" width="32px" alt="instagram" />
 </a>
 </div>
+</footer>
