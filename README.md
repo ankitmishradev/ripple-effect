@@ -1,3 +1,13 @@
+## Ripple Effect
+
+<img src="https://raw.githubusercontent.com/ankitmishradev/ripple-effect-css-jQuery/main/banner.gif" align="right" height="128px"/>
+
+This ripple effect is created with CSS and jQuery only. Following effect is achieved by adding 40 divs with height, width, background color and animation delay relative to it's index and then animating background color of each div from grey color to current color for infinite times.
+
+Visit this [pen](https://codepen.io/ankitmishradev/pen/oNegbpZ) to see it in action.
+
+🎉 _Happy Coding!_ 🎉
+
 <footer>
 <div align="center">
 Made with ❤️ by <b>Ankit Mishra</b>.
